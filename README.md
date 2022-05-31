@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @oak-barry
-- 👀 I’m interested in robustness in neural network
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on CNN architecture
+- 👀 I’m interested in robustness in neural radiance field
+- 🌱 I’m currently thinking something about nerf
 - 📫 Contact me by dpcao.njust@outlook.com if needed
 
 <!---

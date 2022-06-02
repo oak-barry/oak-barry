@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oak-barry
-- 👀 I’m interested in robustness in neural radiance field
+- 👀 I’m interested in neural radiance field
 - 🌱 I’m currently thinking something about nerf
 - 📫 Contact me by dpcao.njust@outlook.com if needed
 
